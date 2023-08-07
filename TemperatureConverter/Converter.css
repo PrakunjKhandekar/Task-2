@@ -1,0 +1,16 @@
+body{   
+    padding: 0;
+    background-color: Coral ;
+    display: flex;
+}
+#main{
+    padding-top: 100px;
+    width: 540px;
+    height: 300px;
+    text-align: center;
+    background-color: #5B84B1FF;
+    border: 2px solid #000000;
+    margin: 12% 30%;
+    border-radius: 6%;
+    align-items: center;
+}
